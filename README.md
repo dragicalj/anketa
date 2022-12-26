@@ -1,4 +1,4 @@
-# Sadržaj ankete
+# Sadržaj ankete:
 ![slika1!](slika1.PNG)
 ![slika2!](slika2.PNG)
 ![slika3!](slika3.PNG)
